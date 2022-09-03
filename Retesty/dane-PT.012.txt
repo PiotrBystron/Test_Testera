@@ -1,0 +1,10 @@
+Nabywca:
+Firma Alfa i Omega
+40-305 Katowice
+Sprzedawca:
+IT4KAN sp. z o.o.
+40-203 Katowice
+Faktura nr: FV/2021/12/01/00123
+Usługa 1, !a, *1a, 10%
+Usługa 2, @b, (1a, 10%
+Usługa 3, #c, )1a, 10%
